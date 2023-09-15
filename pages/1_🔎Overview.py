@@ -2,6 +2,7 @@
 #                   Import libraries
 # ==========================================================
 import geopandas
+import pygeos
 geopandas.options.use_pygeos = True
 import plotly.express    as px
 import streamlit         as st
