@@ -1,16 +1,16 @@
 # ==========================================================
 #                   Import libraries
 # ==========================================================
+import geopandas
+geopandas.options.use_pygeos = True
 import plotly.express    as px
 import streamlit         as st
 import pandas            as pd
 import numpy             as np
 import os
-import geopandas
 
 from PIL import Image
 
-# geopandas.options.use_pygeos = True
 
 # ==========================================================
 #                       Functions
