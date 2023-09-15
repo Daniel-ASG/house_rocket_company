@@ -10,7 +10,7 @@ import geopandas
 
 from PIL import Image
 
-geopandas.options.use_pygeos = True
+# geopandas.options.use_pygeos = True
 
 # ==========================================================
 #                       Functions
