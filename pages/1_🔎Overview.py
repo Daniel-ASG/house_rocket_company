@@ -6,7 +6,7 @@ import streamlit         as st
 import pandas            as pd
 import numpy             as np
 import os
-os.environ["USE_PYGEOS"] = "1"
+os.environ["USE_PYGEOS"] = "0"
 import geopandas
 
 from PIL import Image
