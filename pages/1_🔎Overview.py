@@ -38,7 +38,7 @@ def categorize_features(df_raw):
 
 
 @st.cache_data
-def insert_city_names(df_raw, _king_county):
+def insert_city_names(df_raw, king_county):
     # create a GeoDataFrame with 'id' and the coordinates ('long', 'lat')
     geometry = geopandas.points_from_xy(df_raw.long, df_raw.lat)
     geo_df_raw = geopandas.GeoDataFrame(df_raw['id'], geometry=geometry)
