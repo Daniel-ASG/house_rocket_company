@@ -5,6 +5,8 @@ import plotly.express    as px
 import streamlit         as st
 import pandas            as pd
 import numpy             as np
+import os
+os.environ["USE_PYGEOS"] = "1"
 import geopandas
 
 from PIL import Image
