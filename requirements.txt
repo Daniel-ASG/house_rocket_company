@@ -108,7 +108,7 @@ pure-eval==0.2.2
 pyarrow==13.0.0
 pycparser==2.21
 pydeck==0.8.0
-pygeos==0.13
+pygeos==0.14
 Pygments==2.16.1
 Pympler==1.0.1
 pyparsing==3.0.9
