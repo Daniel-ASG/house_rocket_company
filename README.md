@@ -50,12 +50,16 @@ Online App, hosted in a Cloud and available for access from any internet connect
 To access the final result, please go to the [Streamlit App link](https://house-rocket-company.streamlit.app/).
 
 # 6. Conclusion
-The goal of this project was to create an App that displays the insights in the best possible way for the CEO.
-Since many regions are still unserved, there is great potential for growth of the platform in the coming years.
+The aim of this project was to create an App that presents insights in an effective and intuitive way for the CEO. Through the strategic use of technology and data analysis, it was possible to identify lucrative business opportunities in the King Count real estate market. 
+
+The app not only provides an overview of the market, but also offers insights into factors that influence real estate prices. This allows House Rocket to make informed decisions and maximize its profits.
+
+In addition, the app demonstrates the power of data analysis and technology in transforming the real estate sector. It highlights how House Rocket is at the forefront of this transformation, using technology to improve the way we buy and sell real estate.
+
+Ultimately, this project serves as an example of the potential of data analytics in generating actionable insights and driving business success.
 
 # 7. Next steps
-1. Detail some analysis regarding cuisines types.
-2. Deepen the analyses regarding the evaluations provided.
-3. Create new filters.
-4. Add new business views.
-5. Develop Machine Learning Models that can help the company improve its performance.
+  1. Improve the EDA to bring more interesting insights.
+  2. Elaborate more hypotheses to be tested and generate new insights
+  3. Try different parameters to define the buy and sell criteria.
+  4. Develop Machine Learning Models that can help the company improve its performance.
