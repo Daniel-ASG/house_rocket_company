@@ -33,7 +33,7 @@ In order to optimize the process of buying and selling properties, the CEO reque
 
 
 # 2. Assumptions made for the analysis
-  1. The analysis was carried out using data between 11/02/2022 and 06/04/2022.
+  1. The analysis was carried out using data between 2014/05/02 and 2015/05/27.
   2. Properties with no bedrooms, no bathrooms and an unreasonable number of bathrooms (33 bathrooms) have been removed from the dataset.
   3. Some features not included in the original list of features were created to improve the analysis.
 
