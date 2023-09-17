@@ -42,7 +42,7 @@ st.write("# House Rocket Company Dashboard")
 st.markdown(
     '''
     ### Welcome to House Rocket Data Analysis! 
-    ### This dashboard was designed to help the company's CEO make decisions regarding the real estate purchase and sale in the King Count region.
+    ### This dashboard was designed to help the company's CEO make decisions regarding the real estate purchase and sale in the King County region.
     ### How to use this Dashboard?
     - Overview:
         - General behavioral metrics.
