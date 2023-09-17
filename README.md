@@ -50,7 +50,7 @@ Online App, hosted in a Cloud and available for access from any internet connect
 To access the final result, please go to the [Streamlit App link](https://house-rocket-company.streamlit.app/).
 
 # 6. Conclusion
-The aim of this project was to create an App that presents insights in an effective and intuitive way for the CEO. Through the strategic use of technology and data analysis, it was possible to identify lucrative business opportunities in the King Count real estate market. 
+The aim of this project was to create an App that presents insights in an effective and intuitive way for the CEO. Through the strategic use of technology and data analysis, it was possible to identify lucrative business opportunities in the King County real estate market. 
 
 The app not only provides an overview of the market, but also offers insights into factors that influence real estate prices. This allows House Rocket to make informed decisions and maximize its profits.
 
